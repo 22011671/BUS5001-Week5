@@ -1,1 +1,1 @@
-# BUS5001 - Tutorial week 4
+This is a repository which shows us how to deploy a website to Azure
